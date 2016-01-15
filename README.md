@@ -1,2 +1,2 @@
-# ts-data-harness
-Contains helper and utility code to speed up and manage data flow for TS.
+# Personal Utility Tools
+Common code snippets and harnesses for use in a variety of personal and professional work.
